@@ -1,0 +1,18 @@
+max dintre 3 numere
+
+a b c
+
+citeste a;
+citeste b;
+citeste c;
+
+daca a > b
+	daca a > c
+		scrie a
+	altfel 
+		scrie c
+altfel
+	daca b > c
+		scrie b
+	atfel
+		scrie c
